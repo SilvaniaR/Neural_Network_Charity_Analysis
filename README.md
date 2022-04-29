@@ -1,8 +1,8 @@
 # Neural_Network_Charity_Analysis
 Deep ML
 
-## Overview of the analysis: Explain the purpose of this analysis.
-the analysis was conducted to help a foundation predict where to make investments.
+## Overview of the analysis: 
+The analysis was conducted to help a foundation predict where to make investments.
 Using machine learning and neural networks we used the features in the provided dataset to help create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 ## Results: 
