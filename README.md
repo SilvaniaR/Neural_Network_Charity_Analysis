@@ -12,6 +12,7 @@ Using machine learning and neural networks we used the features in the provided 
 * What variable(s) are neither targets nor features, and should be removed from the input data? EIN and NAME provide no value added to the model to make a decesion.
 
 * Compiling, Training, and Evaluating the Model
+
 Deep learning: image below
 <img width="1437" alt="alphabetcharitydeeplearning" src="https://user-images.githubusercontent.com/93267002/165876067-eeeb46c7-d3e6-4683-84e5-e37ed1aef0b7.png">
 
